@@ -1,0 +1,13 @@
+body{
+    background-color: cyan;
+}
+
+h1{
+    color:blueviolet;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: crimson;
+}
+
